@@ -1,2 +1,3 @@
-# agentic-express-templates
-A repository with Agentic Express application templates
+# agentic-express-app
+
+An Agentic Express
